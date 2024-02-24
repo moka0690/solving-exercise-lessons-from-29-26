@@ -14,3 +14,6 @@ console.log(-"-100000"); // 100000
 console.log(-"-100000"/true); // 100000
 console.log(+"100000"/true); // 100000
 console.log(10000+[(true+false)]-true); // 100000
+
+
+console.log(-Number.MIN_SAFE_INTEGER); // 9007199254740991
