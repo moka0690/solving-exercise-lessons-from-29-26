@@ -17,3 +17,8 @@ console.log(10000+[(true+false)]-true); // 100000
 
 
 console.log(-Number.MIN_SAFE_INTEGER); // 9007199254740991
+
+
+console.log( Number.MAX_SAFE_INTEGER -"9007199254740975" ); // 16
+
+
