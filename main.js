@@ -39,5 +39,6 @@ console.log( Math.round(flt)); // 10
 console.log(Math.floor(flt)); // 10
 console.log(Math.trunc(flt)); // 10
 
-
+console.log(Math.max( 0 ,2,3,4)); // 0 || 1 || 2 || 3 || 4
+console.log(Math.min( 4 ,5,6,7)); 
 
